@@ -25,8 +25,11 @@ Computer and Communication Engineering Student from Egypt, who is very passionat
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="CSS" width="50" height="50"/>&nbsp;
   </a>    
   <a href="https://www.learnpython.org/">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg#gh-light-mode-only" alt="CSS" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg#gh-dark-mode-only" alt="CSS" width="50" height="50"/>&nbsp;
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg">
+    <img alt="CSS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50" height="50">
+    </picture>&nbsp;
   </a> 
  <a href="https://docs.arduino.cc/learn/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="CSS" width="50" height="50"/>&nbsp;
