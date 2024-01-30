@@ -9,7 +9,11 @@ Computer and Communication Engineering Student from Egypt, who is very passionat
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn Badge"alt="CSS" width="50" height="50"/>&nbsp;
   </a>
   <a href="mailto:ahmadwael2004@gmail.com">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="LinkedIn Badge"alt="CSS" width="50" height="50"/>&nbsp;
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg">
+    <img alt="CSS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="50" height="50">
+    </picture>&nbsp;
   </a>
 </div>
 
@@ -41,7 +45,11 @@ Computer and Communication Engineering Student from Egypt, who is very passionat
     <img width=50px src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">&nbsp;
   </a> 
   <a href="https://opencv.org/university/free-opencv-course/?utm_source=opcv&utm_medium=menu&utm_campaign=obc">
-    <img width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Light.svg">&nbsp;
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Light.svg">
+    <img alt="CSS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg" width="50" height="50">
+    </picture>&nbsp;
   </a>
 </div>
 
