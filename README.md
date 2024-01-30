@@ -16,16 +16,17 @@ Computer and Communication Engineering Student from Egypt, who is very passionat
 ## :hammer_and_wrench: Languages and Tools :
 <div>
  <a href="https://www.learn-c.org/">
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" alt="CSS" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="CSS" width="50" height="50"/>&nbsp;
   </a>
   <a href="https://www.learn-cpp.org/">
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" alt="CSS" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="CSS" width="50" height="50"/>&nbsp;
   </a>
   <a href="https://www.learncs.org/">
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" alt="CSS" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="CSS" width="50" height="50"/>&nbsp;
   </a>    
   <a href="https://www.learnpython.org/">
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="CSS" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg#gh-light-mode-only" alt="CSS" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg#gh-dark-mode-only" alt="CSS" width="50" height="50"/>&nbsp;
   </a> 
  <a href="https://docs.arduino.cc/learn/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="CSS" width="50" height="50"/>&nbsp;
@@ -36,6 +37,9 @@ Computer and Communication Engineering Student from Egypt, who is very passionat
   <a href="https://www.w3schools.com/git/">
     <img width=50px src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">&nbsp;
   </a> 
+  <a href="https://opencv.org/university/free-opencv-course/?utm_source=opcv&utm_medium=menu&utm_campaign=obc">
+    <img width=50px src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Light.svg">&nbsp;
+  </a>
 </div>
 
 
