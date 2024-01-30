@@ -8,7 +8,7 @@ Computer and Communication Engineering Student from Egypt, who is very passionat
   <a href="https://www.linkedin.com/in/ahmad-wael/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn Badge"alt="CSS" width="50" height="50"/>&nbsp;
   </a>
-  <a href="ahmadwael2004@gmail.com">
+  <a href="mailto:ahmadwael2004@gmail.com">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="LinkedIn Badge"alt="CSS" width="50" height="50"/>&nbsp;
   </a>
 </div>
