@@ -1,6 +1,5 @@
 ## Hi I'm Ahmad Wael 👋 
 Computer and Communication Engineering Student from Egypt, who is very passionate about Robotics, Machine Learning, AI, Computer Vision!
-- 🔭 I’m currently working on a soccer playing robot
 - 💬 Ask me about Robotics
 
 ## :speech_balloon: Connect with me: 
