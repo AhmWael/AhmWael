@@ -50,6 +50,9 @@ Computer and Communication Engineering Student from Egypt, who is very passionat
     <img alt="CSS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg" width="50" height="50">
     </picture>&nbsp;
   </a>
+   <a href="https://www.djangoproject.com/">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="CSS" width="50" height="50"/>&nbsp;
+  </a>
 </div>
 
 
