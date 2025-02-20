@@ -34,6 +34,13 @@ Computer and Communication Engineering Student from Egypt, who is very passionat
     <img alt="CSS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50" height="50">
     </picture>&nbsp;
   </a> 
+  <a href="https://www.java.com/en/">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg">
+    <img alt="CSS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50" height="50">
+    </picture>&nbsp;
+  </a> 
  <a href="https://docs.arduino.cc/learn/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="CSS" width="50" height="50"/>&nbsp;
   </a>
@@ -53,6 +60,13 @@ Computer and Communication Engineering Student from Egypt, who is very passionat
    <a href="https://www.djangoproject.com/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="CSS" width="50" height="50"/>&nbsp;
   </a>
+  <a href="https://www.mathworks.com/products/matlab.html">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Light.svg">
+    <img alt="CSS" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" width="50" height="50">
+    </picture>&nbsp;
+  </a> 
 </div>
 
 
