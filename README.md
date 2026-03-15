@@ -1,6 +1,16 @@
-## Hi I'm Ahmad Wael 👋 
-Computer and Communication Engineering Student from Egypt, who is very passionate about Robotics, Machine Learning, AI, Computer Vision!
-- 💬 Ask me about Robotics, Backend Development
+## Hi, I'm Ahmad Wael 👋
+
+Computer and Communication Engineering student from Egypt  
+Passionate about Robotics, AI, Machine Learning, Computer Vision, and Autonomous Systems.
+
+* 🤖 RoboCup Junior competitor - built autonomous soccer-playing robots
+* ✈️ Electrical Lead at **Lycans UAV Team**, working on UAV electronics, avionics, and embedded systems
+* 🛠️ Interested in autonomous robotics, perception, and control systems
+* 💻 Backend developer interested in building scalable systems
+
+### 💬 Ask me about
+
+Robotics, UAV Systems, Backend Development, and Computer Vision
 
 ## :speech_balloon: Connect with me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-wael/)
@@ -38,6 +48,7 @@ Computer and Communication Engineering Student from Egypt, who is very passionat
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![OpenMV](https://img.shields.io/badge/OpenMV-ED1C24?style=for-the-badge&logo=openmv&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-DA291C?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![PCB Design](https://img.shields.io/badge/PCB_Design-008000?style=for-the-badge&logo=altiumdesigner&logoColor=white)
