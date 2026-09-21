@@ -1,12 +1,12 @@
 ## Hi, I'm Ahmad Wael 👋
 
-Computer and Communication Engineering student from Egypt  
-Passionate about Robotics, AI, Machine Learning, Computer Vision, and Autonomous Systems.
+Computer and Communication Engineering student from Egypt, Team Leader at Lycans UAV Team, and passionate about Robotics, UAVs, Autonomous Systems, AI, and Software Engineering.
 
-* 🤖 RoboCup Junior competitor - built autonomous soccer-playing robots
-* ✈️ Electrical Lead at **Lycans UAV Team**, working on UAV electronics, avionics, and embedded systems
-* 🛠️ Interested in autonomous robotics, perception, and control systems
-* 💻 Backend developer interested in building scalable systems
+* ✈️ Team Leader at Lycans UAV Team, leading the 2027 AeroDesign team across mechanical, electrical, software, and R&D activities
+* 🤖 RoboCup Junior competitor — built autonomous soccer-playing robots
+* 🚁 Working on UAV systems, avionics, autonomous flight, embedded systems, and robotics
+* 💻 Backend developer interested in designing and building scalable systems
+* 🛠️ Interested in autonomous robotics, perception, control systems, and engineering team development
 
 ### 💬 Ask me about
 
